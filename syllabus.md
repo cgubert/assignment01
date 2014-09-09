@@ -1,4 +1,7 @@
-MICRBIOL 612:  Microbial Informatics
+---
+output: html_document
+---
+## **MICRBIOL 612:  Microbial Informatics**
 
 Instructor:  Patrick D. Schloss, PhD
 Office hours:  Mondays (3:00-5:00 PM) in 1520A MSRB I
@@ -25,6 +28,6 @@ Matloff, N  (2011).  The Art of R Programming.
 
 Chacon, S (2010). ProGit.
 
-Additional materials. Supplemental YouTube videos and online tutorials will be assigned.
+*Additional materials. Supplemental YouTube videos and online tutorials will be assigned.*
  
 Software. You will need to install R and Rstudio
